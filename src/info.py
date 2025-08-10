@@ -1,0 +1,1 @@
+# These scripts are reddit scripts that i made because I was bored.. Go to the folder you want and run it.. Instructions are in the readme.md file in the root. Hope these helped! Also if there are erros let me know since i'm kinda bad at python..``
